@@ -1,0 +1,14 @@
+.container {
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(146, 11, 144, 0.1);
+}
+
+.container p {
+  font-size: 18px;
+  font-style: italic;
+  color: #ae37c0;
+  text-align: center;
+}
